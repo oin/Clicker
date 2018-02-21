@@ -1,3 +1,5 @@
+**NOTE: [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements/) now allows you to directly [assign mouse buttons](https://github.com/oin/Clicker/issues/2), so it might be better to use it instead of Clicker.**
+
 This small program listens to keyboard events and translates presses and releases of a specific key to presses and releases of a mouse button.
 It has been tested on OS X 10.11 and macOS 10.12, but it should work from OS X 10.6 onwards.
 
